@@ -1,2 +1,2 @@
 # MachineLearning
-UESTC_Yingcai HonorCollege_MachineLearning_homework＆project
+UESTC_YingcaiHonorCollege_MachineLearning_homework＆project
